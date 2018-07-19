@@ -11,3 +11,6 @@ SYSTEM REQUIREMENTS
 * PHP >=5.4
 * WordPress >=4.4
 
+INSTALLATION
+Put the cdnsun folder to the /wp-content/plugins/ folder.
+
