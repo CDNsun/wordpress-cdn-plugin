@@ -1,4 +1,4 @@
-# Wordpress CDN plugin
+# WordPress CDN plugin
 
 This WordPress plugin integrates any Content Delivery Network (CDN) into WordPress.
 
