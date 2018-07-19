@@ -78,7 +78,7 @@ class CDNsun_Options
            <div class="notice notice-info">
                <p>
                    This plugin integrates any Content Delivery Network (CDN) into WordPress. 
-                   Provided by <b><a target="_blank" href="https://cdnsun.com">CDNsun</a></b>.
+                   Provided by <b><a target="_blank" href="https://cdnsun.com/knowledgebase/integrations/wordpress-cdn-integration">CDNsun</a></b>.
                </p>
            </div>     
            <form method="post" action="options.php">
