@@ -22,3 +22,7 @@ OFFICIAL PLUGIN WEBSITE
 
 https://wordpress.org/plugins/cdnsun/
 
+OFFICIAL PLUGIN SVN REPOSITORY
+
+https://plugins.svn.wordpress.org/cdnsun/
+
