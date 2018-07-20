@@ -18,3 +18,7 @@ INSTALLATION
 
 Upload the cdnsun folder to the /wp-content/plugins/ folder.
 
+OFFICIAL PLUGIN WEBSITE
+
+https://wordpress.org/plugins/cdnsun/
+
