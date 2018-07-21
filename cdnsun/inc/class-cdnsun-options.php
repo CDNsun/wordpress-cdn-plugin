@@ -38,7 +38,7 @@ class CDNsun_Options
         );
     }
     
-    // in (array) $data here are links on this page: /wp-admin/plugins.php for this plugin, such as "Deactivate"
+    // in (array) $data there are links on this page: /wp-admin/plugins.php for this plugin, such as "Deactivate"
     public static function add_options_page_link($data) 
     {        
         if(!current_user_can('manage_options')) 

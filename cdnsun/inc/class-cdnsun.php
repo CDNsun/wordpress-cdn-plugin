@@ -77,10 +77,15 @@ class CDNsun
         {
             return true;
         } 
-        if($options['cdn_url'] == get_option('home')) 
+        if($options['cdn_url'] == get_option('home'))
         {
             return true;
-        } 
+        }
+        // = in page/post preview mode
+        if(is_admin_bar_showing() && !empty($_GET['preview']))
+        {
+            return true;
+        }
         if(empty($options['includes']))
         {
             $options['includes'] = CDNSUN_DEFAULT_INCLUDES;
@@ -88,7 +93,7 @@ class CDNsun
         if(empty($options['excludes']))
         {
             $options['excludes'] = CDNSUN_DEFAULT_EXCLUDES;
-        }
+        }        
         
         $includes = array_map('trim', explode(',', $options['includes']));
         $excludes = array_map('trim', explode(',', $options['excludes']));
