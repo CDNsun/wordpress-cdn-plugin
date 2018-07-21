@@ -9,7 +9,7 @@ SYSTEM REQUIREMENTS
 
 INSTALLATION
 
-Upload the cdnsun folder to the /wp-content/plugins/ folder.
+Upload the cdnsun folder into the /wp-content/plugins/ folder.
 
 OFFICIAL PLUGIN WEBSITE
 
