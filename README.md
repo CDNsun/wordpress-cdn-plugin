@@ -19,3 +19,8 @@ OFFICIAL PLUGIN SVN REPOSITORY
 
 https://plugins.svn.wordpress.org/cdnsun/
 
+CONTACT
+
+* W: https://cdnsun.com
+* E: info@cdnsun.com
+
