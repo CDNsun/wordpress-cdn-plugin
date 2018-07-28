@@ -4,8 +4,8 @@ This WordPress plugin integrates any Content Delivery Network (CDN) into WordPre
 
 SYSTEM REQUIREMENTS
 
-* PHP >=5.4
-* WordPress >=4.4
+* PHP >= 5.4
+* WordPress >= 4.4
 
 INSTALLATION
 
